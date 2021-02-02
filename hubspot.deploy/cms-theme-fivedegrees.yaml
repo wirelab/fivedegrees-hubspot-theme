@@ -5,11 +5,11 @@ contributors:
 
 type: static_deployed_pointer
 
-description: Boilerplate Theme
+description: FiveDegrees Theme
 
 artifactBuildMetadata:
-  repository: cms-theme-boilerplate
-  module: cms-theme-boilerplate
+  repository: cms-theme-fivedegrees
+  module: cms-theme-fivedegrees
 
 slack:
   - channelName: "#cms-assets-io-notif"

@@ -1,10 +1,10 @@
 {
-  "name": "@hubspot/cms-theme-boilerplate",
+  "name": "fivedegrees-hubspot-theme",
   "version": "1.6.0",
   "description": "Boilerplate project for building websites on the HubSpot CMS",
   "repository": {
     "type": "git",
-    "url": "git@git.hubteam.com:HubSpot/cms-theme-boilerplate.git"
+    "url": "git@github.com:wirelab/fivedegrees-hubspot-theme.git"
   },
   "author": "",
   "license": "Apache-2.0",
